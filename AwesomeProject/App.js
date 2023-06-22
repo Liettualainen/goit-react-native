@@ -7,7 +7,8 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <Text>Yes JSS</Text>
       <Text>Yes JSS</Text>
-      <StatusBar style="auto" />
+      <Text>Yes JSS</Text>
+      <StatusBar style='auto' />
     </View>
   );
 }
