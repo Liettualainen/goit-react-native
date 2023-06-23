@@ -32,7 +32,7 @@ export default function App() {
           color="#841584"
           onPress={() => Alert.alert('Button pressed')}
       />
-      <StatusBar style='auto' />
+      <StatusBar  />
         </ImageBackground>
     </View>
   );
